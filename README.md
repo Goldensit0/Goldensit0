@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Salvador Ayala. 
+- 👀 I’m interested in system optimization, backend development, and embedded systems. I enjoy working on performance improvements, efficient algorithms, and scalable architectures.
+- 🌱 I’m currently learning how to program an ESP32-C3 with Arduino and improving my backend skills.
+- 💞️ I’m looking to collaborate on open-source projects related to backend development, system performance optimization, and automation.
+- 📫 Contact me through my profile or at salvadorayalaxd@gmail.com.
+- 🔍 Check out my [university projects](https://github.com/Goldensit0/University-Projects).
